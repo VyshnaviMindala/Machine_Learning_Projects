@@ -1,5 +1,0 @@
-Linear regression is used to predict the profit of 50 startups. 
-We use a dataset containing startup information such as R&D spend, administration spend, marketing spend, state and profit. 
-We preprocess data, split into training and testing sets, and apply linear regression to the training data. 
-We evaluate model performance using metrics like RMSE and R-squared, and fine-tune hyperparameters like regularization strength to improve the model.
-We then use the final linear regression model to predict the profit of the 50 startups.
